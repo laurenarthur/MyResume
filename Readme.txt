@@ -1,5 +1,5 @@
-**Lauren Arthur**
-#January 30 2020
+** Lauren Arthur **
+# January 30 2020
 
 Template Name: MyResume
 Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
